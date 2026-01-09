@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047489224416",
+    "project_id": "lnf-app-fa0c9",
+    "storage_bucket": "lnf-app-fa0c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047489224416:android:e9a5caff6ae0fb014dba85",
+        "android_client_info": {
+          "package_name": "com.example.lnf_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047489224416-9524nu4sdijvgr8k6anvpfr9lq1mq614.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0b17haMfXh2P09w2hDomNVb5iu43DpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047489224416-9524nu4sdijvgr8k6anvpfr9lq1mq614.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
